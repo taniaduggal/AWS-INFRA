@@ -1,5 +1,7 @@
 # AWS-INFRA
 
+![Screenshot 2023-07-09 103608](https://github.com/taniaduggal/AWS-INFRA/assets/103496926/5fa15a34-4162-42f5-9f48-e80135cf53f3)
+
 AWS CONSOLE SETUP FOR CREATING INFRA
 
 1.) Create VPC
